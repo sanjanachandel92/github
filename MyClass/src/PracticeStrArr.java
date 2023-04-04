@@ -3,7 +3,7 @@ public class PracticeStrArr {
     public static void main (String[] args)
     {
         String someStr = "Hyderabad";
-        String s = someStr.substring(0,3);
+        String s = someStr.substring(7,9);
         System.out.println(s + s + s);
 
         String otherString = "Kanpur";

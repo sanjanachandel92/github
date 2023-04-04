@@ -3,8 +3,10 @@ public class ForLoop {
         printHelloWorld();
     }
 
-    public static void printHelloWorld() {
-        for (int i = 0; i < 5; i++) {
+    public static void printHelloWorld()
+    {
+        for (int i = 0; i < 5; i++)
+        {
             System.out.println("Hello World");
         }
     }
